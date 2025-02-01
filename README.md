@@ -1,4 +1,4 @@
-![Monty Hall 2](https://github.com/user-attachments/assets/ff6f6d4b-1a4b-4041-be36-71acdd5f0320)# 🎲 Descripción del Script
+# 🎲 Descripción del Script
 
 El script `mp_paradox.py` simula el famoso problema de la **Paradoja de Monty Hall**. Este problema es un experimento de probabilidad basado en un concurso televisivo, donde un concursante debe elegir entre tres puertas: detrás de una hay un premio y detrás de las otras dos, nada.  
 
